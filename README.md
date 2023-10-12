@@ -1,0 +1,2 @@
+# 1.9 Assignment 1: Character Arrays
+ Create a 2d Array that stores 3 powers each for the characters that the user can select. The powers do random damage between 0.00 and 5.00. Create a battle method that continues the attacks from the user and the computer until one of them reaches 0 health (cannot go below 0). The computer will choose a random power from one of the 3 that does damage between 0.00 and 5.00. The winner is then displayed based on the power level. The user can play again.
